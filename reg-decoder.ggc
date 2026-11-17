@@ -1,6 +1,6 @@
 {
   "version": "1.6",
-  "timestamp": "2026-11-17T03:21:56.347Z",
+  "timestamp": "2026-11-17T04:42:02.609Z",
   "name": "reg-decoder",
   "interface": {
     "inputs": [],
@@ -84,7 +84,7 @@
       "x": 17,
       "y": 4,
       "props": {
-        "bits": 1,
+        "bits": 5,
         "base": 10,
         "color": null,
         "rotation": 0,
